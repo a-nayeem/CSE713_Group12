@@ -1,8 +1,9 @@
 Venue - ICAART 2022
 Submission date - September 25, 2021
 Submission type - Abstract
+Submission Title - Extractive Summarization of Bangla Documents by Fine Tuning BERT Models
+
 Conference Name - International Conference on Agents and Artificial Intelligence 2022
-Paper Title - Extractive Summarization of Bangla Documents by Fine Tuning BERT Models
 Submission file - Extractive-Summarization-of-Bangla-Documents-by-Fine-Tuning-BERT-Models.pdf
 Youtube unlisted URL - https://www.youtube.com/watch?v=2ylWMKrd3ng
 

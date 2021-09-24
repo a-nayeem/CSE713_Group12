@@ -1,9 +1,9 @@
 Venue - STI 2021, Green University, Bangladesh
 Submission date - September 1, 2021
 Submission type - Paper Submission
+Paper Title - Fashion Image Generation using Conditional Deep Convolutional Generative Adversarial Network Based on Text Input
 Conference Name - 3rd International Conference on Sustainable Technologies for Industry 4.0
 URL - http://fse.green.edu.bd/sti-2021/
-Paper Title - Fashion Image Generation using Conditional Deep Convolutional Generative Adversarial Network Based on Text Input
 Youtube unlisted URL - https://youtu.be/zg-C--9l-xM
 
 Authors
