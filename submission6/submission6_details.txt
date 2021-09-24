@@ -1,14 +1,14 @@
-Venue - 
-Submission date - 
-Submission type - 
-Conference Name - IEEE Applied Imagery Pattern Recognition Workshop 2021
-Submission Number - 1065
+Venue - ICAART 2022
+Submission date - September 25
+Submission type - Abstract
+Conference Name - International Conference on Agents and Artificial Intelligence 2022
 URL - https://www.aipr-workshop.org/
-Paper Title - Generating synthetic SPECT images of Parkinson’s disease patients using Generative Adversarial Network
-Submission file - Generating synthetic SPECT images of Parkinson’s disease patients using Generative Adversarial Network
-Workspace URL - https://cmt3.research.microsoft.com/AIPR2021/Submission/Manage
-Youtube unlisted URL - https://www.youtube.com/watch?v=IhCYMnjVOvE
+Paper Title - Extractive Summarization of Bangla Documents by Fine Tuning BERT Models
+Submission file - Extractive-Summarization-of-Bangla-Documents-by-Fine-Tuning-BERT-Models.pdf
+Youtube unlisted URL - https://www.youtube.com/watch?v=2ylWMKrd3ng
 
 Authors
 20266002 Abu Nayeem Tasneem
 20266007 Mosarrat Rumman
+21166038 Israt Jahan Ritun
+21166022 Junaid Bin Kibria
