@@ -1,6 +1,6 @@
-Venue - 
-Submission date - 
-Submission type - 
+Venue - AIPR 2021
+Submission date - September 4, 2021
+Submission type - Abstract
 Conference Name - IEEE Applied Imagery Pattern Recognition Workshop 2021
 Submission Number - 1065
 URL - https://www.aipr-workshop.org/
